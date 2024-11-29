@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272342051919",
+    "project_id": "inviration-5246e",
+    "storage_bucket": "inviration-5246e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272342051919:android:efe335fb1c8b12d5aace3a",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemoinviration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRQHMCKeInrE4N33ran-Vv9mVBfiP-YyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272342051919:android:94a1eaa747ec9137aace3a",
+        "android_client_info": {
+          "package_name": "com.example.onesignal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRQHMCKeInrE4N33ran-Vv9mVBfiP-YyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
